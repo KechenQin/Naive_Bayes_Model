@@ -1,7 +1,7 @@
 # Naive_Bayes_Model
 
 This is a simple implementation of Bernoulli Naive Bayes model. 
-The training data are blogs. The features are bag of words and the label is gender.
+The training data are blogs. The features are bag of words and the label is gender. This model aims to predicting the genders of the authors of blog posts.
 
 <b>I post this project here just for commemorating my first python program.</b>
 
